@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Implemente uma função para achar primo
+//Implemente uma função para achar os primos entre 0 e num
 
 void primo(int num){
   int i, j, primo;
