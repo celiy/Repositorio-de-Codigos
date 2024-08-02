@@ -17,9 +17,9 @@ void transtring(char* string){
   }
   
   if (nep == 1){
-    printf("Não é palindromo");
+    printf("Não é palindromo.");
   } else {
-    printf("É palindromo");
+    printf("É palindromo.");
   }
 }
 
