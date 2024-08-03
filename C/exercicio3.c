@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Quest„o da prova, 3: FaÁa um algoritmo que escaneie uma lista de 10 numeros para o usuario e passe esta lista para uma funÁ„o usando parametros que faÁa a soma dos numeros positivos.
+//Quest√£o da prova, 3: Fa√ßa um algoritmo que escaneie uma lista de 10 numeros para o usuario e passe esta lista para uma fun√ß√£o usando parametros que fa√ßa a soma dos numeros positivos.
 
 void func(int* lista){
 
