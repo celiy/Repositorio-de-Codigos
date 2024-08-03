@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Quest„o da prova, 4: faÁa um algortimo que conte o numero de palavras em uma string inserida pelo usuario.
+//Quest√£o da prova, 4: fa√ßa um algortimo que conte o numero de palavras em uma string inserida pelo usuario.
 
 #define TAM 100
 
