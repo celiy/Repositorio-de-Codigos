@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Quest„o da prova, 1: FaÁa um algoritmo tenha uma funÁ„o que È chamada duas vezes e que peÁa um numero inteiro positivo e mostre se o numero È perfeito ou n„o.
+//Quest√£o da prova, 1: Fa√ßa um algoritmo tenha uma fun√ß√£o que √© chamada duas vezes e que pe√ßa um numero inteiro positivo e mostre se o numero √© perfeito ou n√£o.
 
 void func(){
 
