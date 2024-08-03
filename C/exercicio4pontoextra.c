@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-////Quest„o da prova, 5: faÁa um algortimo que ache a maior palavra em uma string inserida pelo usuario. Se uma palavra for do mesmo tamanho que a maior palavra inserida, o resultado deve ser a maior palavra que apareceu primeiro.
+////Quest√£o da prova, 5: fa√ßa um algortimo que ache a maior palavra em uma string inserida pelo usuario. Se uma palavra for do mesmo tamanho que a maior palavra inserida, o resultado deve ser a maior palavra que apareceu primeiro.
 
 #define TAM 100
 
